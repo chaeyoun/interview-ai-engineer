@@ -1,0 +1,70 @@
+quality_system,letter_count,avg_final_risk_score,high_or_critical_rate,avg_systemic_quality_breakdown_score,avg_regulatory_escalation_risk_score,risk_lift_vs_baseline
+Document Control,6,0.899,1.0,0.933,0.925,0.392
+Quality Unit,11,0.891,1.0,0.927,0.918,0.384
+Packaging and Labeling System,5,0.859,1.0,0.92,0.88,0.352
+Purchasing Controls,9,0.852,1.0,0.939,0.906,0.345
+Facilities and Equipment System,44,0.845,1.0,0.908,0.885,0.338
+Material System,8,0.843,1.0,0.931,0.906,0.336
+quality_system,5,0.843,1.0,0.88,0.87,0.336
+Laboratory Control System,48,0.841,0.979,0.908,0.87,0.334
+Materials System,38,0.84,0.974,0.911,0.895,0.333
+Laboratory Controls System,28,0.838,1.0,0.902,0.884,0.331
+Materials Management,10,0.838,1.0,0.905,0.865,0.331
+Production System,59,0.838,1.0,0.909,0.884,0.33
+Quality Unit Oversight,6,0.837,0.833,0.892,0.85,0.33
+Quality System,70,0.829,0.986,0.905,0.877,0.322
+CAPA System,8,0.828,0.875,0.894,0.844,0.321
+Laboratory Controls,31,0.826,0.903,0.895,0.858,0.319
+Production and Process Controls,33,0.824,0.909,0.898,0.87,0.317
+Stability Program,7,0.823,1.0,0.9,0.879,0.316
+Materials Management System,13,0.823,1.0,0.9,0.858,0.316
+Facilities and Equipment,14,0.822,0.929,0.896,0.871,0.315
+Equipment and Facilities System,9,0.821,1.0,0.906,0.867,0.314
+Production and Process Control System,5,0.821,1.0,0.9,0.81,0.314
+Medical Device Reporting (MDR),14,0.811,0.929,0.882,0.871,0.304
+Design Controls,27,0.81,0.926,0.881,0.9,0.303
+Complaint Handling,19,0.805,0.895,0.882,0.871,0.298
+Corrective and Preventive Action (CAPA),32,0.804,0.875,0.895,0.877,0.297
+Process Validation,10,0.798,0.8,0.87,0.88,0.291
+CAPA,7,0.79,0.857,0.857,0.821,0.283
+Risk Management,5,0.782,0.8,0.86,0.86,0.275
+Environmental Monitoring,7,0.776,0.714,0.836,0.829,0.269
+Labeling and Packaging,6,0.774,0.833,0.817,0.9,0.267
+Supplier Management,8,0.765,0.875,0.875,0.844,0.258
+Environmental Monitoring Program,9,0.746,0.889,0.867,0.822,0.239
+Hazard Analysis and Risk-Based Preventive Controls (HARPC),8,0.738,0.625,0.862,0.812,0.231
+Quality Management System,20,0.736,0.75,0.815,0.84,0.229
+Labeling and Packaging Controls,5,0.736,0.6,0.82,0.79,0.229
+Pest Control Program,5,0.71,0.6,0.88,0.79,0.203
+Hazard Analysis and Risk-Based Preventive Controls,5,0.704,0.8,0.86,0.81,0.197
+Sanitation and Hygiene,5,0.703,0.6,0.84,0.78,0.196
+Product Labeling and Marketing,11,0.627,0.364,0.714,0.827,0.12
+Import Compliance,8,0.606,0.125,0.856,0.819,0.098
+Product Labeling,8,0.586,0.25,0.725,0.85,0.079
+Distribution Controls,19,0.561,0.368,0.611,0.858,0.054
+Foreign Supplier Verification Program (FSVP),24,0.56,0.125,0.815,0.798,0.053
+Product Development/Regulatory Affairs,5,0.556,0.0,0.48,0.85,0.049
+Supply Chain Management,35,0.528,0.229,0.663,0.781,0.021
+Distribution/Supply Chain,9,0.513,0.0,0.522,0.822,0.006
+Labeling and Promotion,31,0.476,0.065,0.416,0.816,-0.031
+Labeling and Promotional Review,15,0.443,0.067,0.327,0.763,-0.064
+Product Distribution,12,0.44,0.25,0.458,0.788,-0.067
+Labeling and Promotional Controls,14,0.438,0.0,0.407,0.743,-0.069
+Labeling and Promotional Material Control,8,0.432,0.0,0.363,0.719,-0.075
+Labeling and Advertising,7,0.424,0.0,0.343,0.729,-0.083
+Supply Chain/Distribution,16,0.418,0.0,0.381,0.788,-0.089
+Labeling and Promotional Materials,7,0.411,0.0,0.286,0.736,-0.096
+Advertising and Promotion,5,0.41,0.0,0.3,0.8,-0.097
+Regulatory Compliance,30,0.372,0.033,0.4,0.72,-0.135
+Regulatory Affairs/Compliance,36,0.353,0.083,0.317,0.694,-0.154
+Labeling and Marketing Compliance,7,0.351,0.0,0.257,0.657,-0.156
+regulatory compliance,10,0.299,0.1,0.27,0.67,-0.208
+Regulatory Affairs,251,0.285,0.02,0.218,0.633,-0.222
+regulatory affairs,8,0.236,0.0,0.162,0.662,-0.271
+Product Lifecycle Management,80,0.234,0.0,0.168,0.604,-0.273
+product registration,5,0.201,0.0,0.14,0.64,-0.306
+Product Compliance,14,0.197,0.0,0.129,0.593,-0.31
+Product Registration/Compliance,18,0.196,0.0,0.111,0.611,-0.311
+Product Licensing/Authorization,5,0.193,0.0,0.1,0.6,-0.314
+Product Registration and Compliance,9,0.192,0.0,0.133,0.556,-0.315
+Product Registration and Listing,13,0.191,0.0,0.131,0.592,-0.316

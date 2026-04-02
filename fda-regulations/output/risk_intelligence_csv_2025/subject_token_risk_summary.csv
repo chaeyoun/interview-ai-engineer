@@ -1,0 +1,39 @@
+subject_token,letter_count,avg_final_risk_score,high_or_critical_rate,avg_patient_safety_risk_score,avg_data_integrity_risk_score,avg_regulatory_escalation_risk_score,risk_lift_vs_baseline
+active pharmaceutical ingredient (api),12,0.853,0.917,0.854,0.75,0.888,0.346
+finished pharmaceuticals,86,0.834,0.988,0.898,0.603,0.87,0.327
+finished pharmaceutical,10,0.818,0.9,0.875,0.595,0.885,0.311
+medical devices,31,0.813,0.903,0.845,0.623,0.865,0.306
+qsr,32,0.812,0.906,0.845,0.619,0.862,0.305
+cgmp,173,0.809,0.89,0.875,0.563,0.863,0.302
+premarket approval application (pma) adulterated device,8,0.778,0.875,0.862,0.444,0.912,0.271
+adulterated drug products,14,0.761,0.857,0.857,0.504,0.821,0.254
+compounding pharmacy,14,0.761,0.857,0.857,0.504,0.821,0.254
+investigational device exemptions (ide),10,0.759,0.8,0.86,0.425,0.905,0.252
+cfr,8,0.746,0.625,0.875,0.35,0.856,0.239
+ps),8,0.746,0.625,0.875,0.35,0.856,0.239
+"regulations for human cells, tissues & cellular products (hct",8,0.746,0.625,0.875,0.35,0.856,0.239
+cgmp for foods,5,0.735,0.4,0.88,0.37,0.79,0.228
+seafood haccp,5,0.735,0.4,0.88,0.37,0.79,0.228
+"prepared, packed or held under insanitary conditions",11,0.724,0.636,0.905,0.227,0.823,0.217
+deviations,13,0.721,0.538,0.854,0.315,0.862,0.214
+food,11,0.718,0.636,0.909,0.191,0.823,0.211
+phs act,5,0.718,0.8,0.88,0.28,0.78,0.211
+shell egg regulation,5,0.718,0.8,0.88,0.28,0.78,0.211
+biologics license application (bla),8,0.655,0.375,0.8,0.2,0.85,0.148
+clinical investigator,8,0.64,0.375,0.719,0.562,0.644,0.133
+dietary supplement,12,0.609,0.333,0.75,0.267,0.758,0.102
+botox blitz,5,0.552,0.0,0.95,0.0,0.9,0.045
+botox,6,0.548,0.0,0.933,0.017,0.85,0.04
+misbranded botox,6,0.547,0.0,0.942,0.0,0.85,0.04
+foreign supplier verification program (fsvp),30,0.545,0.1,0.493,0.11,0.795,0.038
+unapproved new drugs,76,0.544,0.158,0.859,0.041,0.822,0.037
+unlawful sale of unapproved and misbranded drugs to united states consumers over the internet,47,0.482,0.064,0.8,0.004,0.855,-0.025
+adulterated,412,0.48,0.398,0.544,0.25,0.716,-0.027
+unapproved new drug,14,0.477,0.286,0.643,0.1,0.696,-0.03
+false & misleading claims,11,0.464,0.0,0.736,0.073,0.659,-0.043
+ophthalmic drug products,7,0.426,0.0,0.857,0.0,0.714,-0.081
+otc,25,0.394,0.08,0.532,0.074,0.62,-0.113
+misbranded,342,0.32,0.091,0.423,0.05,0.647,-0.187
+nonprescription,6,0.304,0.167,0.375,0.15,0.475,-0.203
+family smoking prevention and tobacco control act,223,0.207,0.0,0.261,0.0,0.598,-0.301
+failure to register and list,12,0.158,0.0,0.167,0.0,0.358,-0.349

@@ -1,0 +1,161 @@
+subject_token_pair,letter_count,avg_final_risk_score,high_or_critical_rate
+adulterated + unapproved new animal drug,1,0.94,1.0
+acidified foods + adulterated,1,0.925,1.0
+acidified foods + emergency permit control,1,0.925,1.0
+adulterated + emergency permit control,1,0.925,1.0
+"adulterated + manufacturing, packaging, labeling, or holding operations for dietary supplements",1,0.905,1.0
+"cgmp + manufacturing, packaging, labeling, or holding operations for dietary supplements",1,0.905,1.0
+adulterated + api,2,0.896,1.0
+api + cgmp,2,0.896,1.0
+api + finished pharmaceutical,2,0.896,1.0
+active pharmaceutical ingredient (api) + misbranded,1,0.893,1.0
+bioresearch monitoring program + institutional review board (irb),1,0.89,1.0
+cgmp + unapproved new drugs,1,0.873,1.0
+active pharmaceutical ingredient (api) + adulterated,12,0.853,0.917
+active pharmaceutical ingredient (api) + cgmp,12,0.853,0.917
+adulterated + lacks pma and,1,0.852,1.0
+adulterated + medical device,1,0.852,1.0
+adulterated + or 510(k),1,0.852,1.0
+lacks pma and + medical device,1,0.852,1.0
+lacks pma and + misbranded,1,0.852,1.0
+lacks pma and + or 510(k),1,0.852,1.0
+medical device + or 510(k),1,0.852,1.0
+misbranded + or 510(k),1,0.852,1.0
+cgmp + unapproved new drug,1,0.838,1.0
+finished pharmaceuticals + unapproved new drug,1,0.838,1.0
+adulterated + finished pharmaceuticals,86,0.834,0.988
+cgmp + finished pharmaceuticals,86,0.834,0.988
+finished pharmaceuticals + misbranded,2,0.833,1.0
+medical device + misbranded,2,0.83,1.0
+misbranded + unapproved new animal drug,2,0.821,1.0
+adulterated + finished pharmaceutical,10,0.818,0.9
+cgmp + finished pharmaceutical,10,0.818,0.9
+failure to comply with drug listing requirements + misbranded,1,0.815,1.0
+adulterated + medical devices,31,0.813,0.903
+cgmp + medical devices,31,0.813,0.903
+medical devices + qsr,31,0.813,0.903
+adulterated + cgmp,167,0.812,0.904
+adulterated + qsr,32,0.812,0.906
+cgmp + qsr,32,0.812,0.906
+medical device + quality system regulation,1,0.808,1.0
+medical device + unapproved device,1,0.808,1.0
+misbranded + quality system regulation,1,0.808,1.0
+misbranded + unapproved device,1,0.808,1.0
+quality system regulation + unapproved device,1,0.808,1.0
+adulterated + hazard analysis,2,0.799,1.0
+adulterated + risk-based preventive controls for food,2,0.799,1.0
+cgmp + hazard analysis,2,0.799,1.0
+cgmp + risk-based preventive controls for food,2,0.799,1.0
+hazard analysis + risk-based preventive controls for food,2,0.799,1.0
+adulterated + installation,1,0.788,1.0
+adulterated + manufacture,1,0.788,1.0
+adulterated + packing,1,0.788,1.0
+adulterated + storage,1,0.788,1.0
+cgmp + installation,1,0.788,1.0
+cgmp + manufacture,1,0.788,1.0
+cgmp + packing,1,0.788,1.0
+cgmp + storage,1,0.788,1.0
+installation + manufacture,1,0.788,1.0
+installation + packing,1,0.788,1.0
+installation + qsr,1,0.788,1.0
+installation + storage,1,0.788,1.0
+manufacture + packing,1,0.788,1.0
+manufacture + qsr,1,0.788,1.0
+manufacture + storage,1,0.788,1.0
+packing + qsr,1,0.788,1.0
+packing + storage,1,0.788,1.0
+qsr + storage,1,0.788,1.0
+adulterated + food for animals,2,0.786,1.0
+cgmp + food for animals,2,0.786,1.0
+"food for animals + prepared, packed or held under insanitary conditions",2,0.786,1.0
+adulterated + insanitary conditions,3,0.782,0.667
+cgmp for foods + insanitary conditions,3,0.782,0.667
+insanitary conditions + seafood haccp,3,0.782,0.667
+cgmp + otc,2,0.78,0.5
+investigational device exemptions (ide) + premarket approval application (pma) adulterated device,8,0.778,0.875
+medical devices + misbranded,5,0.767,0.8
+misbranded + qsr,5,0.767,0.8
+adulterated + low acid canned food regulation,1,0.765,1.0
+adulterated + non-medicated feed,1,0.762,1.0
+cgmp + non-medicated feed,1,0.762,1.0
+adulterated drug products + compounding pharmacy,14,0.761,0.857
+clinical investigator + sponsor,1,0.76,1.0
+adulterated + pma,2,0.754,1.0
+cgmp + pma,2,0.754,1.0
+medical devices + pma,2,0.754,1.0
+misbranded + pma,2,0.754,1.0
+pma + qsr,2,0.754,1.0
+adulterated + prepared packed or held under insanitary conditions,2,0.754,1.0
+food + prepared packed or held under insanitary conditions,2,0.754,1.0
+cfr + deviations,8,0.746,0.625
+cfr + ps),8,0.746,0.625
+"cfr + regulations for human cells, tissues & cellular products (hct",8,0.746,0.625
+deviations + ps),8,0.746,0.625
+"deviations + regulations for human cells, tissues & cellular products (hct",8,0.746,0.625
+"ps) + regulations for human cells, tissues & cellular products (hct",8,0.746,0.625
+cgmp + misbranded,19,0.745,0.632
+adulterated + cgmp for foods,5,0.735,0.4
+adulterated + seafood haccp,5,0.735,0.4
+cgmp for foods + seafood haccp,5,0.735,0.4
+adulterated + unapproved new drugs,1,0.735,1.0
+"adulterated + prepared, packed or held under insanitary conditions",11,0.724,0.636
+"cgmp + prepared, packed or held under insanitary conditions",11,0.724,0.636
+adulterated + food,11,0.718,0.636
+adulterated + phs act,5,0.718,0.8
+adulterated + shell egg regulation,5,0.718,0.8
+phs act + shell egg regulation,5,0.718,0.8
+adulterated + l. monocytogenes,2,0.717,0.5
+cgmp + l. monocytogenes,2,0.717,0.5
+food + l. monocytogenes,2,0.717,0.5
+"l. monocytogenes + prepared, packed or held under insanitary conditions",2,0.717,0.5
+adulterated + positron emission tomography (pet) drugs,1,0.717,1.0
+cgmp + positron emission tomography (pet) drugs,1,0.717,1.0
+cgmp + food,9,0.71,0.556
+"food + prepared, packed or held under insanitary conditions",9,0.71,0.556
+adulterated + animal food,1,0.702,1.0
+animal food + cgmp,1,0.702,1.0
+adulterated + unapproved new drug,2,0.696,0.5
+cgmp + dietary supplement,9,0.689,0.444
+adulterated + otc,1,0.688,0.0
+investigational device exemptions (ide) + premarket approval application (pma),2,0.682,0.5
+biologics license application (bla) + cgmp,5,0.682,0.4
+biologics license application (bla) + deviations,5,0.682,0.4
+cgmp + deviations,5,0.682,0.4
+adulterated + processing & bottling of bottled drinking water regulations,1,0.677,0.0
+food labeling + misbranded,1,0.675,0.0
+medical device reporting + misbranded,2,0.669,0.5
+otc + unapproved new drug and misbranded,1,0.665,0.0
+adulterated + dietary supplement,11,0.653,0.364
+adulterated + new animal drug,1,0.645,0.0
+dietary supplement + misbranded,10,0.633,0.4
+biologics license application (bla) + unapproved new drug,3,0.609,0.333
+biologics license application (bla) + unlicensed biological product,3,0.609,0.333
+unapproved new drug + unlicensed biological product,3,0.609,0.333
+investigator + sponsor,1,0.575,0.0
+adulterated human foods + misbranded,4,0.572,0.0
+misbranded + unapproved new drugs,54,0.569,0.222
+adulterated + human food,1,0.555,0.0
+human food + unapproved new drug,1,0.555,0.0
+botox blitz + misbranded,5,0.552,0.0
+botox blitz + unapproved new drugs,5,0.552,0.0
+botox + misbranded,6,0.548,0.0
+botox + unapproved new drugs,6,0.548,0.0
+misbranded botox + unapproved new drugs,6,0.547,0.0
+otc + unapproved new drugs,12,0.465,0.083
+false & misleading claims + misbranded,11,0.464,0.0
+misbranded + unapproved new drug,10,0.429,0.3
+ophthalmic drug products + unapproved new drugs,7,0.426,0.0
+misbranded + otc,19,0.403,0.053
+nonprescription + otc,5,0.309,0.2
+nonprescription + otc.”,1,0.275,0.0
+adulterated + misbranded,244,0.254,0.057
+otc + unapproved new drug,6,0.23,0.0
+failure to list + misbranded,1,0.22,0.0
+adulterated + family smoking prevention and tobacco control act,223,0.207,0.0
+family smoking prevention and tobacco control act + misbranded,223,0.207,0.0
+misbranded + new drug,1,0.205,0.0
+advertising & promotional labeling + biological products,1,0.2,0.0
+advertising & promotional labeling + drugs,1,0.2,0.0
+biological products + drugs,1,0.2,0.0
+electronic drug registration and listing system (edrls) + violations,1,0.185,0.0
+failure to register and list + misbranded,12,0.158,0.0

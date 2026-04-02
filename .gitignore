@@ -53,3 +53,8 @@ coverage.xml
 # OS
 .DS_Store
 Thumbs.db
+
+# output
+output/
+fda-regulations/src/output/
+fda-regulations/output/

@@ -1,0 +1,13 @@
+company_name,letter_count,avg_final_risk_score,subjects
+You Suck Vapes,7,0.211,adulterated; family smoking prevention and tobacco control act; misbranded
+Kure CBD & Vape,7,0.189,adulterated; family smoking prevention and tobacco control act; misbranded
+Artisan Vapor Company,6,0.203,adulterated; family smoking prevention and tobacco control act; misbranded
+Eli Lilly and Company,3,0.443,false & misleading claims; misbranded
+"Alohma, LLC, d/b/a Kure CBD & Vape",3,0.175,adulterated; family smoking prevention and tobacco control act; misbranded
+Ecig Charleston LLC,3,0.172,adulterated; family smoking prevention and tobacco control act; misbranded
+"Amazon.com, Inc.",2,0.556,misbranded; otc; unapproved new drugs
+Aytu Biopharma,2,0.385,false & misleading claims; misbranded
+Cool Vape LLC,2,0.195,adulterated; family smoking prevention and tobacco control act; misbranded
+"Walker Enterprises, LLC d/b/a MaddCatt Vapor",2,0.182,adulterated; family smoking prevention and tobacco control act; misbranded
+bellavapor.com,2,0.17,adulterated; family smoking prevention and tobacco control act; misbranded
+"JSS Retail, LLC, d/b/a Kure CBD & Vape",2,0.165,adulterated; family smoking prevention and tobacco control act; misbranded

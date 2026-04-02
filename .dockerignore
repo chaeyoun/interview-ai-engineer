@@ -1,0 +1,40 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
+# Build
+dist/
+build/
+
+# Env
+.env
+.env.*
+
+# Docker (optional)
+Dockerfile
+docker-compose.yml
+
+# uv
+.uv/

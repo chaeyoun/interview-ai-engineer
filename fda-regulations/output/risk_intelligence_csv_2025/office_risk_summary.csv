@@ -1,0 +1,19 @@
+issuing_office,letter_count,avg_final_risk_score,high_or_critical_rate,avg_patient_safety_risk_score,avg_systemic_quality_breakdown_score,avg_data_integrity_risk_score,avg_remediation_complexity_score,avg_regulatory_escalation_risk_score
+Office of Manufacturing Quality,3,0.851,1.0,0.9,0.883,0.667,0.9,0.917
+"""ORP: Office of Regulatory Programs, Office of Product Evaluation and Quality""",1,0.808,1.0,0.85,0.9,0.6,0.85,0.8
+Office of Compliance and Enforcement,2,0.736,0.5,0.825,0.85,0.5,0.675,0.75
+Center for Biologics Evaluation and Research,4,0.733,0.5,0.888,0.775,0.338,0.838,0.8
+Center for Veterinary Medicine,14,0.718,0.571,0.893,0.782,0.321,0.718,0.825
+Center for Biologics Evaluation and Research (CBER),13,0.693,0.538,0.812,0.715,0.323,0.819,0.831
+Human Foods Program,50,0.68,0.52,0.848,0.761,0.245,0.708,0.799
+Center for Devices and Radiological Health,60,0.673,0.7,0.708,0.722,0.477,0.719,0.767
+Center for Drug Evaluation and Research (CDER),283,0.646,0.495,0.828,0.66,0.301,0.6,0.818
+Office of Compliance and Biologics Quality,3,0.609,0.333,0.767,0.6,0.1,0.85,0.817
+Division of Southeast Imports,2,0.592,0.5,0.625,0.75,0.25,0.6,0.775
+Division of West Coast Imports,4,0.592,0.0,0.575,0.838,0.15,0.675,0.788
+Division of Northeast Imports,10,0.573,0.2,0.535,0.845,0.12,0.635,0.815
+Division of Southwest Imports,6,0.536,0.0,0.483,0.792,0.083,0.65,0.783
+Office of Inspections and Investigations,7,0.482,0.0,0.371,0.786,0.071,0.543,0.786
+The Office of Prescription Drug Promotion (OPDP),2,0.468,0.0,0.7,0.4,0.1,0.45,0.7
+Office of Unapproved Drugs and Labeling Compliance,1,0.32,0.0,0.65,0.1,0.0,0.2,0.7
+Center for Tobacco Products,224,0.208,0.0,0.262,0.137,0.0,0.234,0.599
